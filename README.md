@@ -35,3 +35,4 @@
 **This flowchart serves as a visual aid to simplify the understanding of Linux file permissions and their management. It is particularly useful for educational purposes, system administration training, and presentations.**
 
 ![Blank diagram](https://github.com/user-attachments/assets/abc390b4-bf39-4342-aca6-a91dffc5bda6)
+########## "Figure 1: A flowchart illustrating the steps for managing file permissions in Linux."
