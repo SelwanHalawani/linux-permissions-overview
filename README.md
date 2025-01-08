@@ -34,4 +34,4 @@
 ### Purpose of the Flowchart
 **This flowchart serves as a visual aid to simplify the understanding of Linux file permissions and their management. It is particularly useful for educational purposes, system administration training, and presentations.**
 
-![Screenshot 2025-01-09 000150](https://github.com/user-attachments/assets/26c3cf68-7151-4cba-95e8-462bde904c4b)
+![Blank diagram](https://github.com/user-attachments/assets/abc390b4-bf39-4342-aca6-a91dffc5bda6)
